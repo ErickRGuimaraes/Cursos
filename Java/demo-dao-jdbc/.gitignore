@@ -1,0 +1,47 @@
+# ==============================
+# Arquivo de configuração sensível
+# ==============================
+MySQLConnector/db.properties
+bin/db.properties
+
+# ==============================
+# Arquivos de build Java
+# ==============================
+*.class
+bin/
+target/
+
+# ==============================
+# Configurações de IDEs
+# ==============================
+.vscode/
+.idea/
+*.iml
+
+# Eclipse
+*.launch
+.settings/
+.project
+.classpath
+
+# ==============================
+# Logs e arquivos temporários
+# ==============================
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# ==============================
+# Arquivos do sistema operacional
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Outros arquivos sensíveis
+# ==============================
+*.env
+*.key
+*.pem
