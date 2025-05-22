@@ -1,18 +1,31 @@
-## Getting Started
+# Ada Tech - Estruturas de Dados e Algoritmos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este diretório reúne os exercícios resolvidos durante o curso oferecido pela **Ada Tech**, com foco em lógica de programação, estruturas de dados e algoritmos utilizando a linguagem **Java**.
 
-## Folder Structure
+## Conteúdo Abordado no Curso
 
-The workspace contains two folders by default, where:
+Durante o curso, foram trabalhados diversos tópicos fundamentais, como:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **Filas (Queue)**
+- **Pilhas (Stack)**
+- **Listas Encadeadas**
+- **Recursão**
+- **Ordenação e Busca**
+- **Árvores (introdução)**
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Cada exercício foi desenvolvido com atenção à clareza, organização e boas práticas de codificação.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Continuidade dos Estudos
 
-## Dependency Management
+Mesmo após a conclusão do curso, este diretório continuará sendo utilizado para registrar **novos exercícios de prática**, especialmente de plataformas como o **LeetCode**, focando em problemas recorrentes em entrevistas técnicas de empresas de tecnologia.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Objetivo
+
+O principal objetivo deste repositório é servir como:
+
+- Histórico de aprendizado
+- Base de revisão para entrevistas
+- Referência pessoal para algoritmos e estruturas de dados
+
+---
+
